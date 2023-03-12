@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "module": "commonjs",
+      "moduleResolution": "node",
+      "target": "es6",
+      "sourceMap": false,
+      "outDir": "./dist",
+      "importHelpers": true,
+      "typeRoots": [
+        "node_modules/@types"
+    ]
+    },
+    "lib": ["es2015"]
+  }
